@@ -21,4 +21,4 @@ The dashboard visualizes:
 ## 📈 Outcome
 A simple, data-driven Excel dashboard that helps track operational efficiency and business growth.
 
-![Dashboard review](FastKart_Orders_Dashboard.png)
+![Dashboard review](FastKart-Dashboard.png)
