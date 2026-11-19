@@ -1,8 +1,8 @@
-FastKart Sales Performance Analysis
+## FastKart Sales Performance Analysis
 
 Tools: Microsoft Excel, Power Query, Pivot Tables, Pivot Charts, Slicers
 
-1. Business Problem
+## 1. Business Problem
 
 FastKart needed better visibility into its sales performance to understand revenue trends, identify its strongest and weakest-performing regions, evaluate product performance, and recognize its most valuable customers.
 
