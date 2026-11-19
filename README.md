@@ -10,7 +10,7 @@ Without a consolidated view of these metrics, management would find it difficult
 
 The objective of this project was to transform raw sales records into an interactive analytical dashboard that provides actionable insights for business decision-making.
 
-2. Business Questions
+## 2. Business Questions
 
 The analysis focused on answering the following questions:
 
@@ -21,7 +21,7 @@ The analysis focused on answering the following questions:
 - Who are the highest-value customers?
 - What is the average selling price per unit?
 
-3. Tools and Technologies
+## 3. Tools and Technologies
 
 - Microsoft Excel: Data analysis, calculations and dashboard development.
 - Power Query: Data cleaning, transformation and preparation.
@@ -29,7 +29,7 @@ The analysis focused on answering the following questions:
 - Pivot Charts: Visualizing revenue trends and performance.
 - Slicers: Enabling interactive filtering and exploration of business metrics.
 
-4. Analytical Process
+## 4. Analytical Process
 
 - Imported and prepared the raw sales dataset using Power Query.
 - Cleaned and transformed the data to ensure consistency.
@@ -38,14 +38,14 @@ The analysis focused on answering the following questions:
 - Developed interactive visualizations to communicate sales performance.
 - Created a dashboard with interactive filters for business exploration.
 
-5. Key Performance Indicators
+## 5. Key Performance Indicators
 
 - Total Revenue
 - Total Units Sold
 - Total Customers
 - Average Selling Price
 
-6. Key Findings
+## 6. Key Findings
 
 The analysis revealed the following:
 
@@ -58,7 +58,7 @@ The analysis revealed the following:
 - Monthly Performance: March recorded the highest monthly revenue at approximately $243,900, while May recorded the lowest at approximately $192,800.
 - Customer Performance: John emerged as the highest revenue-generating customer, contributing approximately $156,300.
 
-7. Business Recommendations
+## 7. Business Recommendations
 
 - Investigate the factors driving the West region's stronger revenue performance and identify opportunities to replicate its success in other regions.
 - Review the East region's sales performance to identify potential revenue gaps.
@@ -66,7 +66,7 @@ The analysis revealed the following:
 - Investigate the decline in revenue observed in May compared with March.
 - Examine purchasing patterns among high-value customers to identify opportunities for customer retention and increased sales.
 
-8. Business Value
+## 8. Business Value
 
 The project provides management with a consolidated view of sales performance, making it easier to monitor revenue trends, compare regional contributions, identify high-performing products and customers, and support data-driven commercial decisions.
 
